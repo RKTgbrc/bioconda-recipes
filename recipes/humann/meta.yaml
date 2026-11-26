@@ -43,7 +43,7 @@ requirements:
     - python >=3
   run:
     - python >=3
-    - metaphlan >=4.0
+    - metaphlan >=4.0,<=4.1.1
     - diamond >=0.9.36
     - glpk
     - bowtie2 >2.1
